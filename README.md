@@ -1,5 +1,4 @@
 # hello-world
-Starting with Github
 
 Hello ! 
 This is Yasmine. 
